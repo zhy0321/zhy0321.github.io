@@ -13,5 +13,3 @@ Before that, I received my master’s degree from Shenzhen University, advised b
 of Computer Vision and Deep Learning. In particular, my work focuses on crowd counting, crowd behavior analysis, semi-supervised learning,
 and continual domain adaptation.
 
-
-# More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme]# (https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
