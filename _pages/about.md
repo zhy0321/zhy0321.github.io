@@ -25,6 +25,6 @@ Currently, my research mainly centers on
 * **Crowd counting/Localize**: Predict the headcount of a complex image.
 * **Data-efficient learning**: Semi-supervised learning (SSL), Domain adaptation.
 
-<h2 id='publications'>Publications</h2>
+<!-- <h2 id='publications'>Publications</h2>
 
- Siteng Huang, Qiyao Wei, Donglin Wang, &quot;[Reference-Limited Compositional Zero-Shot Learning](https://doi.org/10.1145/3591106.3592225)&quot;. In *Proceedings of the 2023 ACM International Conference on Multimedia Retrieval* (**ICMR 2023**). [[project page](https://kyonhuang.top/publication/reference-limited-CZSL)] [[arXiv](https://arxiv.org/abs/2208.10046)] [[github](https://github.com/bighuang624/RL-CZSL)] 
+ Siteng Huang, Qiyao Wei, Donglin Wang, &quot;[Reference-Limited Compositional Zero-Shot Learning](https://doi.org/10.1145/3591106.3592225)&quot;. In *Proceedings of the 2023 ACM International Conference on Multimedia Retrieval* (**ICMR 2023**). [[project page](https://kyonhuang.top/publication/reference-limited-CZSL)] [[arXiv](https://arxiv.org/abs/2208.10046)] [[github](https://github.com/bighuang624/RL-CZSL)] -->
