@@ -13,3 +13,18 @@ Before that, I received my master’s degree from Shenzhen University, advised b
 of Computer Vision and Deep Learning. In particular, my work focuses on crowd counting, crowd behavior analysis, semi-supervised learning,
 and continual domain adaptation.
 
+<span style="color:red;">I am <b>seeking industry opportunities for both research and applications after Ph.D. graduation (June 2024)</b>. Please feel free to drop me an <a href="mailto:wangxin6735@163.com" target="_blank">email</a> if you are interested!</span>
+
+
+<h2 id='research-interests'>Research Interests</h2>
+
+<!-- I am interested in technologies that allow machines and robots to learn like humans. In particular, I am committed to giving robots the ability to understand the world and learn from previous experiences, so that they can complete new tasks, acquire new skills or adapt to new environments rapidly with fewer samples through learning algorithms. Currently, my areas of interest include meta-learning, multi-task learning, and transfer learning on few/zero-shot learning tasks. I am also interested in deep learning, computer vision, and multimodal machine learning. -->
+
+Currently, my research mainly centers on 
+
+* **Crowd counting/Localize**: Predict the headcount of a complex image.
+* **Data-efficient learning**: Semi-supervised learning (SSL), Domain adaptation.
+
+<h2 id='publications'>Publications</h2>
+
+ Siteng Huang, Qiyao Wei, Donglin Wang, &quot;[Reference-Limited Compositional Zero-Shot Learning](https://doi.org/10.1145/3591106.3592225)&quot;. In *Proceedings of the 2023 ACM International Conference on Multimedia Retrieval* (**ICMR 2023**). [[project page](https://kyonhuang.top/publication/reference-limited-CZSL)] [[arXiv](https://arxiv.org/abs/2208.10046)] [[github](https://github.com/bighuang624/RL-CZSL)] 
