@@ -27,5 +27,5 @@ Currently, my research mainly centers on
 
 <h2 id='publications'>Publications</h2>
 
-**X. Wang**, Y. Zhan, Y. Zhao, T. Yang and Q. Ruan, [Semi-Supervised Crowd Counting With Spatial Temporal Consistency and Pseudo-Label Filter]. *IEEE Transactions on Circuits and Systems for Video Technology* (**TCSVT**), 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/10032602)]
+**X. Wang**, Y. Zhan, Y. Zhao, T. Yang and Q. Ruan. &quot; Semi-Supervised Crowd Counting With Spatial Temporal Consistency and Pseudo-Label Filter &quot;. *IEEE Transactions on Circuits and Systems for Video Technology* (**TCSVT**), 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/10032602)]
 
