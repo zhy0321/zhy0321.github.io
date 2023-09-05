@@ -1,15 +1,14 @@
 ---
-title: "Semi-supervised Crowd Counting with Spatial
-Temporal Consistency and Pseudo-label Filter"
+title: "Semi-supervised Crowd Counting with Spatial Temporal Consistency and Pseudo-label Filter"
 collection: publications
 permalink: /publications/stc_crowd
 excerpt: 'The performance of semi-supervised crowd counting (SSCC) can be significantly improved by reducing the over-fitting of the
 incorrect pseudo labels. This paper proposed a novel spatial-temporal consistency framework, named STC-Crowd.'
 date: 2023-08-04
-venue: 'IEEE TCSVT 2023'
+venue: 'IEEE TCSVT'
 ---
 
-
+[paper](https://ieeexplore.ieee.org/abstract/document/10032602){: .btn .btn--info}
 
 ## Abstract
 
