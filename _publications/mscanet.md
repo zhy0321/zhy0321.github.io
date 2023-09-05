@@ -1,7 +1,7 @@
 ---
 title: "Multi-scale context aggregation network with attention-guided for crowd counting"
 collection: publications
-permalink: /publication/MSCANet
+permalink: /publications/MSCANet
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2020-12-01
 venue: '15-th IEEE International Conference on Signal Processing'
