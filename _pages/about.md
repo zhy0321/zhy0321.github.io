@@ -23,7 +23,8 @@ and continual domain adaptation.
 Currently, my research mainly centers on 
 
 * **Crowd counting/Localize**: Predict the headcount of a complex image.
-* **Data-efficient learning**: Semi-supervised learning (SSL), Domain adaptation.
+* **Data-efficient learning**: Semi-supervised learning (SSL), Few-shot learning.
+* **Continual learning**: Continual unsupervised domain adaptation(CUDA), Test-time adaptation(TTA). 
 
 <h2 id='publications'>Publications</h2>
 
