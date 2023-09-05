@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Watson's website"
+title                    : "Xin Wang"
 title_separator          : "-"
-name                     : &name "Watson"
+name                     : &name "Xin Wang"
 description              : &description "personal description"
 url                      : https://KingMV.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Watson"
+  name             : "Xin Wang"
   avatar           : "profile.png"
   bio              : "A CV&ML Learner"
-  location         : "China"
+  location         : "Beijing, China"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : 
   email            : "wangxin6735@163.com"
   uri              :
   bitbucket        :
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "KingMV"
   google_plus      :
   keybase          :
   instagram        :
