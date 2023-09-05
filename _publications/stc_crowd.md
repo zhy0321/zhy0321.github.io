@@ -9,7 +9,7 @@ date: 2023-08-04
 venue: 'IEEE TCSVT 2023'
 ---
 
-[paper](https://ieeexplore.ieee.org/abstract/document/10032602){: .btn .btn--info}
+
 
 ## Abstract
 
