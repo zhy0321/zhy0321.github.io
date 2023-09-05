@@ -31,6 +31,7 @@ labels from degrading model training, by reducing the supervision weights of unr
 
 <div align="middle"><img align="middle" style="max-width: 800px; width: 100%" src="https://KingMV.github.io/files/STC_Crowd_Framework.jpg" /></div>
 
+
 Our framework is based on the teacher-student architecture. We design a DTKM module and a PLF mechanism to improve model performance under the SSL setting.
 The DTKM preserves the teacher’s temporal encoding features of various density levels during training so that the student’s features in the current stage are encouraged to be consistent with its previous temporal features. The PLF mechanism is used to reduce the supervision weights of unreliable pseudo labels with high uncertainty. The uncertainty is acquired from a diverse set of predictions for an image by the Masksembles, which mainly inserts a feature mask layer into the crowd counting model. The optimization objective consists of supervised loss and unsupervised loss.
 
@@ -38,9 +39,9 @@ The DTKM preserves the teacher’s temporal encoding features of various density
 
 Comparison results on various crowd datasets:
 
-![](https://KingMV.github.io/files/STC_Crowd_performance.jpg)
+![](https://KingMV.github.io/files/stc_performance_comp.png)
 
 
 Visualization examples from different crowd counting datasets (e.g. SHHB, SHHA, QNRF, JHU-Crowd++, NWPU-Crowd). 
 
-![](https://KingMV.github.io/files/STC_Crowd_vis.jpg)
+![](https://KingMV.github.io/files/vis_density_map.png)
