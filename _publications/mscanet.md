@@ -25,7 +25,7 @@ useful spatial information from shallow feature maps of the encoder by introduci
 
 ## Overview Framework
 
-![](https://KingMV.github.io/files/mscanet_framework.png)
+![](https://KingMV.github.io/files/mscanet_framework.jpg)
 
 
 The backbone based on VGG16 is used to extract the basic visual feature representation of an input image. Then these features are fed into multiple dense context-aware modules (DCAM) to enhance the representation of multi-scale features. Each DCAM aggregates contextual information from different receptive fields through densely connecting dilated convolution of different dilated rates. The hierarchical attention-guided decoder is used to explicitly integrate important information of different encoded feature maps.
