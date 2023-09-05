@@ -17,5 +17,5 @@ better on limited labeled images.
 
 ## The Proposed Framework
 
-<div align="middle"><img align="middle" style="max-width: 640px; width: 100%" src="https://KingMV.github.io/files/STC_Crowd_Framework.jpg" /></div>
+<div align="middle"><img align="middle" style="max-width: 800px; width: 100%" src="https://KingMV.github.io/files/STC_Crowd_Framework.jpg" /></div>
 
