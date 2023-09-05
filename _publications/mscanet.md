@@ -8,7 +8,7 @@ venue: '15-th IEEE International Conference on Signal Processing'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
-[paper](https://ieeexplore.ieee.org/abstract/document/9321067) {: .btn .btn--info}
+[paper](https://ieeexplore.ieee.org/abstract/document/9321067){: .btn .btn--info}
 [code](https://github.com/KingMV/MSCANet){: .btn .btn--info}
 
 ## Abstract 
