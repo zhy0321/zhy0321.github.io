@@ -22,7 +22,7 @@ and continual domain adaptation.
 
 Currently, my research mainly centers on 
 
-* **Crowd counting/Localize**: Predict the headcount of a complex image.
+* **Crowd behavior analysis**: Crowd counting and localization, abnormal behavior detection.
 * **Data-efficient learning**: Semi-supervised learning (SSL), Few-shot learning.
 * **Continual learning**: Continual unsupervised domain adaptation(CUDA), Test-time adaptation(TTA). 
 
