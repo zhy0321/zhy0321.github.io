@@ -19,3 +19,8 @@ incorrect pseudo labels, and a novel spatial-temporal consistency framework, nam
 store the temporal feature embedding of different density levels for temporal consistency, a dynamic temporal knowledge memory
 (DTKM) is deliberately designed, and considerably reduces the storage cost. Besides, a pseudo-label filter (PLF) mechanism is used to alleviate the negative impact of incorrect pseudo density maps, by reducing the supervision weights of unreliable pseudo labels with high uncertainty. Extensive experiments on four benchmark datasets show that our method obtains competent performance against leading SSCC methods, and especially works
 better on limited labeled images.
+
+## The Proposed Framework
+
+<div align="middle"><img align="middle" style="max-width: 520px; width: 100%" src="https://KingMV.github.io/files/STC_Crowd_Framework.jpg" /></div>
+
