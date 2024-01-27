@@ -30,9 +30,10 @@ Currently, my research mainly centers on
 
 **X. Wang**, W. Xie et.al. &quot;  Learning spatiotemporal features with 3DCNN and ConvGRU for video anomaly detection &quot;. *14th IEEE International Conference on Signal Processing*, 2018. [[paper](https://ieeexplore.ieee.org/abstract/document/8652354)]
 
-**X. Wang**, T. Yang and Q. Ruan et.al. &quot; Hybrid Perturbation Strategy for Semi-supervised Crowd Counting &quot;. *IEEE Transactions on Image Processing*, 2023. (Under review).
+**X. Wang**, T. Yang and Q. Ruan et.al. &quot; Hybrid Perturbation Strategy for Semi-supervised Crowd Counting &quot;. *IEEE Transactions on Image Processing*, 2023.
 
 **X. Wang**, T. Yang and Q. Ruan et.al. &quot; DPCA: Density Prototype Contrast Adaptation for Continual Unsupervised Domain Adaptation Crowd Counting. &quot;. *IEEE Transactions on Multimedia*, 2023. (Submitted).
+
 
 
 
