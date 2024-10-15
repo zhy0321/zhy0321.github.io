@@ -16,7 +16,7 @@ Before that, I received my master’s degree from Shenzhen University, advised b
 
 Currently, my research mainly centers on 
 
-* **Multimodel Large Language Model**: Efficient fine-tuning, Model data leakage.
+* **Multimodal large language model**: Vision-Language large model, Efficient fine-tuning, Model data leakage.
 * **Crowd behavior analysis**: Crowd counting and localization, abnormal behavior detection.
 * **Data-efficient learning**: Semi-supervised learning (SSL), Few-shot learning.
 * **Continual learning**: Continual unsupervised domain adaptation(CUDA), Test-time adaptation(TTA). 
