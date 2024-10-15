@@ -11,8 +11,9 @@ redirect_from:
 I am Xin Wang (王鑫 in Chinese), a Ph.D. student at the Institute of Information Science of [Beijing Jiaotong University](http://iis.bjtu.edu.cn/), advised by Prof. [Tangwen Yang](https://faculty.bjtu.edu.cn/7995/) and Prof. [Qiuqi Ruan](http://iis.bjtu.edu.cn/KyryInfo.aspx?m=20150107094205590028&n=20150107131848403132).
 Before that, I received my master’s degree from Shenzhen University, advised by Prof. [Weixin Xie](https://it.szu.edu.cn/gfkjzdsys/info/1012/1013.htm). My research interest lies at the intersection of Computer Vision and Deep Learning. In particular, my work focuses on crowd counting, crowd behavior analysis, semi-supervised learning and continual domain adaptation.
 
-/*<span style="color:blue;">I am <b>seeking industry opportunities for both research and applications after Ph.D. graduation (June 2024)</b>. Please feel free to drop me an <a href="mailto:wangxin6735@163.com" target="_blank">email</a> if you are interested!</span>*/
-
+---
+/* <span style="color:blue;">I am <b>seeking industry opportunities for both research and applications after Ph.D. graduation (June 2024)</b>. Please feel free to drop me an <a href="mailto:wangxin6735@163.com" target="_blank">email</a> if you are interested!</span> */
+---
 
 <h2 id='research-interests'>Research Interests</h2>
 
