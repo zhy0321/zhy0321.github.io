@@ -31,11 +31,12 @@ Currently, my research mainly centers on
 
 **X. Wang**, T. Yang and Q. Ruan et.al. &quot; Hybrid Perturbation Strategy for Semi-supervised Crowd Counting &quot;. *IEEE Transactions on Image Processing*(**TIP**), 2024. (CCF-A, SCI, IF=10.6) [[paper](https://ieeexplore.ieee.org/abstract/document/10430107)]
 
-
-**X. Wang**, T. Yang and Q. Ruan et.al. &quot; DPCA: Density Prototype Contrast Adaptation for Continual Unsupervised Domain Adaptation Crowd Counting. &quot;. *IEEE Transactions on Multimedia*, 2023. (Submitted).
-
-
 Y. Zhan, **X. Wang**, T. Yang and Q. Ruan et.al. &quot; TG-Pose: Delving into Topology and Geometry for Category-level Object Pose Estimation. &quot;. *IEEE Transactions on Multimedia* (**TMM**), 2024. (CCF-B, SCI, IF=7.8) [[project](https://sites.google.com/view/tg-pose/)].
+
+**X. Wang**, T. Yang and Q. Ruan et.al. &quot; DPCA: Density Prototype Contrast Adaptation for Continual Unsupervised Domain Adaptation Crowd Counting. &quot;. *IEEE Transactions on Multimedia*, 2024. 
+
+
+
 
 
 
