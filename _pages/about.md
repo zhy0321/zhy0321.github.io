@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Xin Wang (王鑫 in Chinese), I received my doctoral degree from the Institute of Information Science of [Beijing Jiaotong University](http://iis.bjtu.edu.cn/), advised by Prof. [Tangwen Yang](https://faculty.bjtu.edu.cn/7995/) and Prof. [Qiuqi Ruan](http://iis.bjtu.edu.cn/KyryInfo.aspx?m=20150107094205590028&n=20150107131848403132).
+I am Xin Wang (王鑫 in Chinese), I received my doctoral degree from [Beijing Jiaotong University](http://iis.bjtu.edu.cn/), advised by Prof. [Tangwen Yang](https://faculty.bjtu.edu.cn/7995/) and Prof. [Qiuqi Ruan](http://iis.bjtu.edu.cn/KyryInfo.aspx?m=20150107094205590028&n=20150107131848403132).
 Before that, I received my master’s degree from Shenzhen University, advised by Prof. [Weixin Xie](https://it.szu.edu.cn/gfkjzdsys/info/1012/1013.htm). My research interest lies at the intersection of Computer Vision and Deep Learning. In particular, my work focuses on multimodal large language model, embodied intelligence,  crowd behavior analysis, self/semi-supervised learning, and continual domain adaptation.
 
 
